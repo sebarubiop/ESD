@@ -1,0 +1,62 @@
+add name Jennifer Lewis; birthday 3-6-2008; qualification Bachelor;  salary $2000; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+query name Jennifer Lewis
+query birthday 3-06-2008
+query 2057 age
+query 2057 qualification
+query 2057 salary
+
+add qualification Diploma; name Jennifer Lewis; birthday 3-6-2008;  salary $4567; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Lisa Walker; qualification Vocational; birthday 3-6-2008; salary $7654; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+query name Jennifer Lewis
+query birthday 3-06-2008
+query 2057 age
+query 2057 qualification
+query 2057 salary
+
+delete Lisa Walker; 3-6-2008
+
+query name Jennifer Lewis
+query birthday 3-06-2008
+query 2057 age
+query 2057 qualification
+query 2057 salary
+
+add name Jennifer Lewis; birthday 31-6-2008; salary $9632; address 9001 Chester Crescent, Chatswood, NSW 2057; qualification Vocational
+
+add name Jennifer Lewis; birthday 3-6-2118;  salary $8521; qualification Bachelor;  address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 20-7-1998; salary $7412; qualification Vocational; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis;  birthday 23-11-1988;  salary $1236; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 31-1-1988; qualification Bachelor;   salary $6985; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 20-7-1978; salary $7412; qualification Vocational; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis;  birthday 23-11-1968;  salary $1236; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 31-1-1958; qualification Bachelor;   salary $6985; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 20-7-1948; salary $7412; qualification Vocational; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis;  birthday 23-11-1938;  salary $1236; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 31-1-1928; qualification Bachelor;   salary $6985; address 9001 Chester Crescent, Chatswood, NSW 2057 
+
+add name Jennifer Lewis; birthday 20-7-1998; salary $7412; qualification Bachelor; phone 88884444
+
+add name Jennifer Lewis;  birthday 23-11-1988;  salary $1236; phone 88884444
+
+add name Jennifer Lewis; birthday 31-1-1988; qualification Bachelor;   salary $6985; phone 88884444
+
+
+query name Jennifer Lewis
+query birthday 3-06-2008
+query 2057 age
+query 2057 qualification
+query 2057 salary
+
+sort birthday

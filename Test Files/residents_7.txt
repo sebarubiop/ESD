@@ -1,0 +1,71 @@
+address 102 Smith St, Summer hill, NSW 2130
+salary $999.99
+qualification Bachelor
+name Posephine Esmerelda Bloggs
+birthday 13-05-1980
+phone 16549853
+email j.e.bloggs@gmail.com
+
+address 60 Morris St, Summer Hill, NSW 2130
+name James Smith
+birthday 23-3-1989
+email j.smith@gmail.com
+phone 98765425
+salary $8885.99
+qualification Diploma
+
+qualification Bachelor
+name James Smith
+birthday 18-09-1968
+phone 13649852
+email j.jones@fanfare.com.au
+address 2 Fairmount St, Rockdale, NSW 2216
+salary $888.5
+
+email robert.taylor@gmail.com
+name James Smith
+birthday 3-6-2008
+phone 16985324
+address 36 Carrington St, Summer Hill, NSW 2130
+salary $-888
+qualification Diploma
+
+name James Smith
+birthday 01-14-1950
+phone 19876245
+email michael@fanfare.com.au
+address 37 Barton Ave, Rockdale, NSW 2216
+salary $88.99
+qualification Vocational
+
+name Mary Brown
+birthday 3-6-2008
+phone 0549632158
+email mary2000@gmail.com
+address 50 Service Ave, Summer Hill, NSW 2130
+salary $888.99
+qualification Bachelor
+
+name Patricia Davies
+birthday 3-6-2008
+phone 13589634
+email p.davis@fanfare.com.au
+address 61 Gibbes St, Rockdale, NSW 2216
+salary $8188.99
+qualification Bachelor
+
+name Linda Evans
+birthday 3-6-2008
+phone 135625
+email l.evans@gmail.com
+address 119 Gibbes St, Rockdale, NSW 2216
+salary $8818.99
+qualification Vocational
+
+name Barbara Wil123son
+birthday 3-6-2008
+phone 0469832165
+email b.wilson@fanfare.com.au
+address 64 Lennox St, Summer Hill, NSW 2130
+salary $1888.99
+qualification Vocational

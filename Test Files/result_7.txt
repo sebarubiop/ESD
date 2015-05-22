@@ -1,0 +1,118 @@
+name: Jennifer Lewis
+birthday: 31-01-1928
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $6985
+
+name: Jennifer Lewis
+birthday: 23-11-1938
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $1236
+
+name: Jennifer Lewis
+birthday: 20-07-1948
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $7412
+
+name: Jennifer Lewis
+birthday: 31-01-1958
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $6985
+
+name: James Smith
+birthday: 18-09-1968
+address: 2 Fairmount St, Rockdale, NSW 2216
+phone: 13649852
+qualification: Bachelor
+salary: $888.5
+email: j.jones@fanfare.com.au
+
+name: Jennifer Lewis
+birthday: 23-11-1968
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $1236
+
+name: Jennifer Lewis
+birthday: 20-07-1978
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $7412
+
+name: Posephine Esmerelda Bloggs
+birthday: 13-05-1980
+address: 102 Smith St, Summer hill, NSW 2130
+phone: 16549853
+qualification: Bachelor
+salary: $999.99
+email: j.e.bloggs@gmail.com
+
+name: Jennifer Lewis
+birthday: 31-01-1988
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $6985
+
+name: Jennifer Lewis
+birthday: 23-11-1988
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $1236
+
+name: James Smith
+birthday: 23-03-1989
+address: 60 Morris St, Summer Hill, NSW 2130
+phone: 98765425
+qualification: Diploma
+salary: $8885.99
+email: j.smith@gmail.com
+
+name: Jennifer Lewis
+birthday: 20-07-1998
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $7412
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+name: James Smith
+birthday: 03-06-2008
+address: 36 Carrington St, Summer Hill, NSW 2130
+phone: 16985324
+qualification: Diploma
+email: robert.taylor@gmail.com
+
+name: Linda Evans
+birthday: 03-06-2008
+address: 119 Gibbes St, Rockdale, NSW 2216
+phone: 135625
+qualification: Vocational
+salary: $8818.99
+email: l.evans@gmail.com
+
+name: Patricia Davies
+birthday: 03-06-2008
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+qualification: Bachelor
+salary: $8188.99
+email: p.davis@fanfare.com.au
+
+name: Mary Brown
+birthday: 03-06-2008
+address: 50 Service Ave, Summer Hill, NSW 2130
+phone: 549632158
+qualification: Bachelor
+salary: $888.99
+email: mary2000@gmail.com
+

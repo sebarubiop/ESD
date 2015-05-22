@@ -1,0 +1,359 @@
+========== query name Jennifer Lewis ============
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $2000
+
+--------------------------------------------
+============= query birthday 03-06-2008 =============
+name: James Smith
+birthday: 03-06-2008
+address: 36 Carrington St, Summer Hill, NSW 2130
+phone: 16985324
+qualification: Diploma
+email: robert.taylor@gmail.com
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $2000
+
+name: Linda Evans
+birthday: 03-06-2008
+address: 119 Gibbes St, Rockdale, NSW 2216
+phone: 135625
+qualification: Vocational
+salary: $8818.99
+email: l.evans@gmail.com
+
+name: Mary Brown
+birthday: 03-06-2008
+address: 50 Service Ave, Summer Hill, NSW 2130
+phone: 549632158
+qualification: Bachelor
+salary: $888.99
+email: mary2000@gmail.com
+
+name: Patricia Davies
+birthday: 03-06-2008
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+qualification: Bachelor
+salary: $8188.99
+email: p.davis@fanfare.com.au
+
+---------------------------------------------
+========== query 2057 age ==========
+Suburb name: Chatswood 
+Population size: 1 
+Age profile
+Average: 6.0 years 
+
+Under 18: 100.0%
+18 - 45: 0.0%
+45 - 65: 0.0%
+65+: 0.0%
+----------------------------
+======= query 2057 qualification =======
+Suburb name: Chatswood 
+Population size: 1
+Qualification profile
+Bachelor or Higher Degree: 100.0%
+Advanced Diploma or Diploma: 0.0%
+Vocational: 0.0%
+Not stated: 0.0%
+-------------------------------
+======== query 2057 salary ======
+Suburb name: Chatswood 
+Population size: 1 
+Weekly salary profile
+Average: $2,000.00 
+Median: $2,000.00 
+-------------------------
+========== query name Jennifer Lewis ============
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+--------------------------------------------
+============= query birthday 03-06-2008 =============
+name: James Smith
+birthday: 03-06-2008
+address: 36 Carrington St, Summer Hill, NSW 2130
+phone: 16985324
+qualification: Diploma
+email: robert.taylor@gmail.com
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+name: Linda Evans
+birthday: 03-06-2008
+address: 119 Gibbes St, Rockdale, NSW 2216
+phone: 135625
+qualification: Vocational
+salary: $8818.99
+email: l.evans@gmail.com
+
+name: Lisa Walker
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $7654
+
+name: Mary Brown
+birthday: 03-06-2008
+address: 50 Service Ave, Summer Hill, NSW 2130
+phone: 549632158
+qualification: Bachelor
+salary: $888.99
+email: mary2000@gmail.com
+
+name: Patricia Davies
+birthday: 03-06-2008
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+qualification: Bachelor
+salary: $8188.99
+email: p.davis@fanfare.com.au
+
+---------------------------------------------
+========== query 2057 age ==========
+Suburb name: Chatswood 
+Population size: 2 
+Age profile
+Average: 6.0 years 
+
+Under 18: 100.0%
+18 - 45: 0.0%
+45 - 65: 0.0%
+65+: 0.0%
+----------------------------
+======= query 2057 qualification =======
+Suburb name: Chatswood 
+Population size: 2
+Qualification profile
+Bachelor or Higher Degree: 0.0%
+Advanced Diploma or Diploma: 50.0%
+Vocational: 50.0%
+Not stated: 0.0%
+-------------------------------
+======== query 2057 salary ======
+Suburb name: Chatswood 
+Population size: 2 
+Weekly salary profile
+Average: $6,110.50 
+Median: $6,110.50 
+-------------------------
+========== query name Jennifer Lewis ============
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+--------------------------------------------
+============= query birthday 03-06-2008 =============
+name: James Smith
+birthday: 03-06-2008
+address: 36 Carrington St, Summer Hill, NSW 2130
+phone: 16985324
+qualification: Diploma
+email: robert.taylor@gmail.com
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+name: Linda Evans
+birthday: 03-06-2008
+address: 119 Gibbes St, Rockdale, NSW 2216
+phone: 135625
+qualification: Vocational
+salary: $8818.99
+email: l.evans@gmail.com
+
+name: Mary Brown
+birthday: 03-06-2008
+address: 50 Service Ave, Summer Hill, NSW 2130
+phone: 549632158
+qualification: Bachelor
+salary: $888.99
+email: mary2000@gmail.com
+
+name: Patricia Davies
+birthday: 03-06-2008
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+qualification: Bachelor
+salary: $8188.99
+email: p.davis@fanfare.com.au
+
+---------------------------------------------
+========== query 2057 age ==========
+Suburb name: Chatswood 
+Population size: 1 
+Age profile
+Average: 6.0 years 
+
+Under 18: 100.0%
+18 - 45: 0.0%
+45 - 65: 0.0%
+65+: 0.0%
+----------------------------
+======= query 2057 qualification =======
+Suburb name: Chatswood 
+Population size: 1
+Qualification profile
+Bachelor or Higher Degree: 0.0%
+Advanced Diploma or Diploma: 100.0%
+Vocational: 0.0%
+Not stated: 0.0%
+-------------------------------
+======== query 2057 salary ======
+Suburb name: Chatswood 
+Population size: 1 
+Weekly salary profile
+Average: $4,567.00 
+Median: $4,567.00 
+-------------------------
+========== query name Jennifer Lewis ============
+name: Jennifer Lewis
+birthday: 31-01-1928
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $6985
+
+name: Jennifer Lewis
+birthday: 23-11-1938
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $1236
+
+name: Jennifer Lewis
+birthday: 20-07-1948
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $7412
+
+name: Jennifer Lewis
+birthday: 31-01-1958
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Bachelor
+salary: $6985
+
+name: Jennifer Lewis
+birthday: 23-11-1968
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $1236
+
+name: Jennifer Lewis
+birthday: 20-07-1978
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Vocational
+salary: $7412
+
+name: Jennifer Lewis
+birthday: 31-01-1988
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $6985
+
+name: Jennifer Lewis
+birthday: 23-11-1988
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $1236
+
+name: Jennifer Lewis
+birthday: 20-07-1998
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+qualification: Bachelor
+salary: $7412
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+--------------------------------------------
+============= query birthday 03-06-2008 =============
+name: James Smith
+birthday: 03-06-2008
+address: 36 Carrington St, Summer Hill, NSW 2130
+phone: 16985324
+qualification: Diploma
+email: robert.taylor@gmail.com
+
+name: Jennifer Lewis
+birthday: 03-06-2008
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+qualification: Diploma
+salary: $4567
+
+name: Linda Evans
+birthday: 03-06-2008
+address: 119 Gibbes St, Rockdale, NSW 2216
+phone: 135625
+qualification: Vocational
+salary: $8818.99
+email: l.evans@gmail.com
+
+name: Mary Brown
+birthday: 03-06-2008
+address: 50 Service Ave, Summer Hill, NSW 2130
+phone: 549632158
+qualification: Bachelor
+salary: $888.99
+email: mary2000@gmail.com
+
+name: Patricia Davies
+birthday: 03-06-2008
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+qualification: Bachelor
+salary: $8188.99
+email: p.davis@fanfare.com.au
+
+---------------------------------------------
+========== query 2057 age ==========
+Suburb name: Chatswood 
+Population size: 10 
+Age profile
+Average: 44.3 years 
+
+Under 18: 20.0%
+18 - 45: 30.0%
+45 - 65: 20.0%
+65+: 30.0%
+----------------------------
+======= query 2057 qualification =======
+Suburb name: Chatswood 
+Population size: 10
+Qualification profile
+Bachelor or Higher Degree: 50.0%
+Advanced Diploma or Diploma: 10.0%
+Vocational: 40.0%
+Not stated: 0.0%
+-------------------------------
+======== query 2057 salary ======
+Suburb name: Chatswood 
+Population size: 10 
+Weekly salary profile
+Average: $5,146.60 
+Median: $6,985.00 
+-------------------------
